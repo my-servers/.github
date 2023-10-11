@@ -15,7 +15,8 @@
 [快速开始](https://myservers.codeloverme.cn/app/)
 
 ### 客户端
-[App Store](https://apps.apple.com/app/myservers/id6466196656)
+- [App Store](https://apps.apple.com/app/myservers/id6466196656)
+- <img src="https://plugin.codeloverme.cn/img/app_dark.jpg" width="200px"> <img src="https://plugin.codeloverme.cn/img/service_dark.jpg" width="200px">
 
 ## 开发自己的插件
 [文档](https://doc.myservers.codeloverme.cn/docs/intro/)
