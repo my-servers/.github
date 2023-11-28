@@ -1,6 +1,6 @@
 # MyServers
 
-![](img/app_store.jpg)
+![](https://raw.githubusercontent.com/my-servers/.github/main/profile/img/app_store.jpg)
 
 一个App监控管理你所有的服务器和服务端应用。这是一款监控管理App，可以扩展各种服务端插件，十分灵活。
 
@@ -13,7 +13,7 @@
 - 丰富的UI
 
 ## 整体架构
-![](img/myservers.png)
+![](https://raw.githubusercontent.com/my-servers/.github/main/profile/img/myservers.png)
 
 
 ### 客户端
