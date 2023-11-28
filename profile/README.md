@@ -29,7 +29,7 @@
 
 
 ## 开发自己的插件
-[文档](https://doc.myservers.codeloverme.cn/docs/intro/)
+文档正在完善中...
 
 ## 意见和建议
 - 欢迎[提出意见](mailto:codeloverql@gmail.com)，也欢迎贡献插件，如果没有技术能力，欢迎提出需要的插件，我们持续支持
