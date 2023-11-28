@@ -1,5 +1,7 @@
 # MyServers
 
+![](https://plugin.codeloverme.cn/img/app_store.jpg)
+
 一个App监控管理你所有的服务器和服务端应用。这是一款监控管理App，可以扩展各种服务端插件，十分灵活。
 
 
@@ -10,13 +12,21 @@
 - 所有数据加密传输，保证安全
 - 丰富的UI
 
-## 安装
-### 服务端
-[快速开始](https://myservers.codeloverme.cn/app/)
+## 整体架构
+![](https://plugin.codeloverme.cn/img/myservers.png)
+
 
 ### 客户端
 - [App Store](https://apps.apple.com/app/myservers/id6466196656)
-- <img src="https://plugin.codeloverme.cn/img/app_dark.jpg" width="200px"> <img src="https://plugin.codeloverme.cn/img/service_dark.jpg" width="200px">
+
+
+## 安装
+### 服务端
+
+- 推荐在app上通过SSH一键**安装**
+- 也可以手动安装，[快速开始](https://myservers.codeloverme.cn/doc/)
+
+
 
 ## 开发自己的插件
 [文档](https://doc.myservers.codeloverme.cn/docs/intro/)
