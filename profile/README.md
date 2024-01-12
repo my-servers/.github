@@ -3,7 +3,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/myservers/my_servers.svg)](https://hub.docker.com/r/myservers/my_servers/)
 [![](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/+TpAft0JOKUY4M2Q1)
 [![](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/app/myservers/id6466196656)
-[![wechat](https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white)](https://myservers.codeloverme.cn)
 
 
 一个App监控管理你所有的服务器和服务端应用。这是一款监控管理App，可以扩展各种服务端插件，十分灵活。
