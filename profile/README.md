@@ -4,7 +4,10 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/+TpAft0JOKUY4M2Q1)
 [![](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/app/myservers/id6466196656)
 
-![](https://raw.githubusercontent.com/my-servers/.github/main/profile/img/app_store.jpg)
+[![教程视频](https://raw.githubusercontent.com/my-servers/.github/main/profile/img/app_store.jpg)](https://imgur.com/EeawBp2
+)
+
+
 
 MyServers是一款全能的服务器监控与管理工具，专为提升您的服务器运维效率而设计。无论您是云主机用户，家庭NAS拥有者，还是树莓派爱好者，MyServers都能提供一站式解决方案，支持腾讯、阿里、百度云主机等多平台。
 
