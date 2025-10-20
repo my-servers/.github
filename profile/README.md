@@ -27,7 +27,7 @@ MyServers是一款全能的服务器监控与管理工具，专为提升您的�
 
 
 ### 客户端
-- [App Store](https://apps.apple.com/app/myservers/id6466196656)
+- [App Store](https://apps.apple.com/app/apple-store/id6466196656?pt=126625882&ct=github&mt=8)
 
 
 ## 安装
